@@ -103,7 +103,3 @@ Sprites exactos, IA con visión, ciclo día/noche, rankings y entrenamiento más
 
 ---
 
-## 👨‍💻 Author / Autor
-
-AI experiment using neuroevolution and classic games.  
-Experimento de IA usando neuroevolución y juegos clásicos.
